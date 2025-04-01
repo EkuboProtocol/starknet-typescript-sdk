@@ -1,7 +1,7 @@
 {
-  "name": "@ekubo/sdk",
+  "name": "@ekubo/starknet-sdk",
   "version": "0.0.6",
-  "description": "SDK for working with Ekubo protocol",
+  "description": "SDK for working with Ekubo protocol on Starknet",
   "main": "dist/index.js",
   "scripts": {
     "test": "vitest",
@@ -14,8 +14,8 @@
   "author": "Moody Salem",
   "license": "UNLICENSED",
   "devDependencies": {
-    "tsup": "^8.2.3",
+    "tsup": "^8.3.5",
     "typescript": "^5.5.4",
-    "vitest": "^2.0.5"
+    "vitest": "^3.1.1"
   }
 }
