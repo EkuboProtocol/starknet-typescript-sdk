@@ -1,6 +1,6 @@
 {
   "name": "@ekubo/starknet-sdk",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "SDK for working with Ekubo protocol on Starknet",
   "main": "dist/index.js",
   "scripts": {
